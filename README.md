@@ -1,2 +1,3 @@
-# IMPORTANT!
-## This branch has been depreciated and has been replaced with the "amd64" branch, issues will be merged into "amd64" and development via this source has been cancelled.
+# redcatOS for x86_64 (Source Code)
+
+### The source code for redcatOS - Amazing Aegean (x64) is here.
